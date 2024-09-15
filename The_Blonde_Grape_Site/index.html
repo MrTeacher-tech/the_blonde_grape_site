@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <!-- Header Links -->
+    <header-placeholder></header-placeholder>
+    <link rel="stylesheet" href="styles.css">
+    <link href="styles.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <navbar-placeholder></navbar-placeholder>
+
+    <div class="container">
+        <!-- Title -->
+        <br><br><br><br>
+        <h1 class='main-title-1'>The Blonde Grape</h1>
+        <h2 class='main-title-2'><a href="tel:+14151234567">(415) 123 - 4567</a></h2>
+        <h3 class='main-title-2'><a href="https://www.google.com/maps?q=123+Main+Street,+San+Francisco,+CA">123 Main Street San Francisco, CA</a></h3>
+        
+        <div class="container mt-4"></div>
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="card my-4">
+                        <div class="card-body text-center">
+                            <h2 class="menu-pic">See Our Menu</h2>
+                            
+                        </div>
+                        <div id="random-food-image"></div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="card my-4">
+                        <div class="card-body text-center">
+                            <h2 class="menu-pic">See Our Drinks</h2>
+                            
+                        </div>
+                        <div id="random-drink-image"></div>
+                    </div>
+                </div>
+            </div>
+        
+        
+    </div>
+
+    <!-- Link to external scripts -->
+    <script src="scripts/food_items.js"></script>
+    <script src="scripts/menu_pics.js"></script>
+    
+    <!-- Move Bootstrap JS to the bottom before the closing body tag -->
+    <script src="scripts/bootstrap.bundle.min.js"></script>
+    <script type='module' src="scripts/main.js"></script>
+    
+</body>
+</html>

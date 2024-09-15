@@ -1,0 +1,144 @@
+{
+    "menu": {
+      "entrees": [
+        {
+          "category": "entrees",
+          "title": "Wine Makers Duck",
+          "description": "Whole Small Duck, Grapes, Shallots",
+          "image": "images/duck_with_grapes.jpg"
+        },
+        {
+          "category": "entrees",
+          "title": "Whole Roasted Branzino",
+          "description": "Branzino, Cherry Tomatos, Greens",
+          "image": "images/branzino.webp"
+        },
+        {
+          "category": "entrees",
+          "title": "Ratatouille",
+          "description": "Squash, Tomatos, Eggplant",
+          "image": "images/ratatouille.webp"
+        }
+      ],
+      "pasta": [
+        {
+          "category": "pasta",
+          "title": "Fettucine with Chicken Liver",
+          "description": "Chicken Liver, Mushroom, Soft Boiled Egg",
+          "image": "images/liver_pasta.jpg"
+        },
+        {
+          "category": "pasta",
+          "title": "Duck Tortellini",
+          "description": "Duck, Porcini, Egg",
+          "image": "images/Duck_Tortellini.webp"
+        },
+        {
+          "category": "pasta",
+          "title": "Summer Squash Pasta",
+          "description": "Pacheri, Squash, Zucchini",
+          "image": "images/squash_pasta.webp"
+        },
+        {
+          "category": "pasta",
+          "title": "Cavatelli with Wild Mushrooms",
+          "description": "Cavatelli, Shitake, Parm",
+          "image": "images/cavatelli.jpg"
+        }
+      ],
+      "tapas": [
+        {
+          "category": "tapas",
+          "title": "Married Anchovies",
+          "description": "Anchovies, Romesco, Olive Oil Caviar",
+          "image": "images/Matrimonio.webp"
+        },
+        {
+          "category": "tapas",
+          "title": "Duck Croquettes",
+          "description": "Honey, Truffle, Duck",
+          "image": "images/honey_truffle_duck_croquettes.jpg"
+        },
+        {
+          "category": "tapas",
+          "title": "Mussels and Toast",
+          "description": "Mussels, White Wine, Shallots",
+          "image": "images/Moules_Frites_8.jpg"
+        },
+        {
+          "category": "tapas",
+          "title": "Crunchy Squash Blossoms",
+          "description": "Squash, Salt, Paprika",
+          "image": "images/squash_blossom.jpg"
+        }
+      ],
+      "snacks":[
+        {
+          "category": "snacks",
+          "title": "Housemade Taralli"
+        },
+        {
+          "category": "snacks",
+          "title": "Assorterd Olives"
+        },
+        {
+          "category": "snacks",
+          "title": "Grapes and Cheese"
+        },
+        {
+          "category": "snacks",
+          "title": "Dill Fries"
+        }
+
+      ],
+
+      "specialty cocktails": [
+        {
+          "category": "specialty cocktails",
+          "title": "Concord Crush",
+          "description": "Gin, Concord Grape, Rosemary",
+          "image": "images/concord_crush.jpg"
+        },
+        {
+          "category": "specialty cocktails",
+          "title": "Duck Fat Sazerac",
+          "description": "Duck Fat Washed Rye, Simple Syrup",
+          "image": "images/sazerac.jpg"
+        },
+        {
+          "category": "specialty cocktails",
+          "title": "Dolce Vita",
+          "description": "Bourbon, Red Wine, Amaro",
+          "image": "images/dolce_vita.png"
+        }
+      ],
+        "cocktails": [
+        {
+          "category": "cocktails",
+          "title": "Negroni",
+          "description": "Gin, Vermouth, Campari"
+          
+        },
+        {
+          "category": "cocktails",
+          "title": "French 75",
+          "description": "Gin, Champagne, Lemon"
+          
+        },
+        {
+          "category": "cocktails",
+          "title": "Manhattan",
+          "description": "Rye, Sweet Vermouth, Bitters"
+          
+        },
+        {
+          "category": "cocktails",
+          "title": "Martini",
+          "description": "Gin or Vodka, Vermouth, Olive"
+          
+        }
+      ]
+      
+    }
+  }
+  
